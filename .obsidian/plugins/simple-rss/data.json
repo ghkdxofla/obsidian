@@ -1,0 +1,29 @@
+{
+  "defaultPath": "",
+  "defaultTemplate": "Source: {{item.link}}\n\n설명: {{item.description}}\n\n내용: {{item:content}}",
+  "autoPull": true,
+  "timeInterval": 10,
+  "feeds": [
+    {
+      "name": "Geek news",
+      "url": "https://feeds.feedburner.com/geeknews-feed",
+      "title": "{{item.title}}",
+      "path": "RSS Feeds/Geek News",
+      "template": ""
+    },
+    {
+      "name": "우아한형제들",
+      "url": "https://techblog.woowahan.com/feed",
+      "title": "{{item.title}}",
+      "path": "RSS Feeds/우아한형제들",
+      "template": ""
+    },
+    {
+      "name": "ByteByteGo",
+      "url": "https://blog.bytebytego.com/feed",
+      "title": "{{item.title}}",
+      "path": "RSS Feeds/ByteByteGo",
+      "template": ""
+    }
+  ]
+}
