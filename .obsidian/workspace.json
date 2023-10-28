@@ -23,9 +23,11 @@
             "id": "dda65bc6ede50360",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -191,15 +193,15 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "7b4de1001f824014",
+  "active": "dda65bc6ede50360",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md",
     "obsidian/README.md",
     "obsidian/LICENSE",
     "obsidian",
     "README.md",
     "LICENSE",
     "Computer Science/Garbage Collection.md",
-    "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md",
     "Excalidraw",
     "Pasted image 20230929122428.png",
     "Computer Science.md",
