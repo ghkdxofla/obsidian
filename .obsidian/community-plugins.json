@@ -12,5 +12,8 @@
   "obsidian-paste-to-current-indentation",
   "ticktick",
   "text-extractor",
-  "rss-reader"
+  "rss-reader",
+  "folder-notes",
+  "copy-url-in-preview",
+  "url-into-selection"
 ]

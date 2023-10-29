@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Garbage Collection.md",
+                "file": "Package/npm/patch-package.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Attachments/Attachments.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Package/npm/patch-package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Package/npm/patch-package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Package/npm/patch-package.md"
               }
             }
           },
@@ -193,45 +192,45 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "dda65bc6ede50360",
+  "active": "02eb9aaa928081c4",
   "lastOpenFiles": [
+    "Computer Science/Garbage Collection.md",
+    "Package/npm/patch-package.md",
+    "Attachments/Attachments.md",
     "Excalidraw/Drawing 2023-10-28 18.34.31.excalidraw.md",
+    "Attachments/Pasted image 20230929122428.png",
+    "Attachments/Pasted image 20231029184731.png",
+    "Attachments",
+    "Framework/Framework.md",
+    "Database/Database.md",
+    "Framework/Django/Django.md",
+    "Framework/Django",
+    "Framework/Framework (858528).md",
+    "Framework/Flask.md",
+    "Package/npm/npm.md",
+    "Programming Language/Rust/Rust.md",
+    "Programming Language/Rust/무제 파일.md",
+    "Programming Language/Python/RustPython.md",
+    "Programming Language/Python/CPython.md",
+    "Programming Language/Python/Python.md",
+    "Programming Language/Programming Language.md",
+    "Programming Language/Typescript/Typescript.md",
+    "Programming Language/Typescript",
+    "Package/Package.md",
+    "Database/Database Migration.md",
+    "Computer Science/Computer Science.md",
+    "Framework/Spring.md",
+    "Programming Language/Rust",
+    "Programming Language/Python",
+    "Framework/Node.js.md",
+    "Package/npm",
+    "Package",
+    "README.md",
+    "Database",
     "obsidian/README.md",
     "obsidian/LICENSE",
     "obsidian",
-    "README.md",
-    "LICENSE",
-    "Computer Science/Garbage Collection.md",
-    "Excalidraw",
-    "Pasted image 20230929122428.png",
     "Computer Science.md",
-    "Computer Science",
-    "Programming Language",
-    "RSS Feeds/A Crash Course in Kubernetes.md",
-    "Framework/Next.js.md",
-    "Framework/Spring.md",
-    "RSS Feeds",
-    "RSS Feeds/ByteByteGo/No More Vendor Lock-In The Rise of Sky Computing.md",
-    "RSS Feeds/ByteByteGo/EP77 My Recommended Materials for Cracking Your Next Technical Interview.md",
-    "RSS Feeds/ByteByteGo/A Crash Course in DNS (Domain Name System).md",
-    "RSS Feeds/ByteByteGo/Why is Kafka so fast How does it work.md",
-    "RSS Feeds/ByteByteGo/The Tech Promotion Algorithm A Structured Guide to Moving Up.md",
-    "RSS Feeds/ByteByteGo/How to Choose a Replication Strategy.md",
-    "RSS Feeds/ByteByteGo/A Crash Course in Kubernetes.md",
-    "RSS Feeds/ByteByteGo/Common Failure Causes.md",
-    "RSS Feeds/ByteByteGo/EP74 The Evolution of AWS Services.md",
-    "RSS Feeds/ByteByteGo/Data Replication A Key Component for Building Large-Scale Distributed Systems.md",
-    "RSS Feeds/ByteByteGo/EP75 How Does A Password Manager Work.md",
-    "RSS Feeds/ByteByteGo/EP76 Netflix's Tech Stack.md",
-    "RSS Feeds/ByteByteGo/A Crash Course in Redis.md",
-    "RSS Feeds/ByteByteGo/EP78 How to Crack Any System Design Interview.md",
-    "RSS Feeds/ByteByteGo/Sessions, Tokens, JWT, SSO, and OAuth in One Diagram.md",
-    "RSS Feeds/ByteByteGo/EP80 Explaining 8 Popular Network Protocols in 1 Diagram.md",
-    "RSS Feeds/ByteByteGo/The 6 Most Impactful Ways Redis is Used in Production Systems.md",
-    "RSS Feeds/ByteByteGo/EP81 How Companies Ship Code to Production.md",
-    "RSS Feeds/ByteByteGo",
-    "RSS Feeds/44Bits",
-    "RSS Feeds/Velog",
     "Untitled 6.png",
     "Rust_programming_language_black_logo.svg.png",
     "Untitled 37.png",
@@ -239,7 +238,6 @@
     "Untitled 1 4.png",
     "Untitled 55.png",
     "Untitled 54.png",
-    "Untitled 1 3.png",
-    "Untitled 53.png"
+    "Untitled 1 3.png"
   ]
 }
