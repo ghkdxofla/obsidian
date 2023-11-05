@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "trashOption": "system"
+  "trashOption": "system",
+  "alwaysUpdateLinks": true
 }

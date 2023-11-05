@@ -1,19 +1,4 @@
 [
-  "obsidian-importer",
-  "obsidian-excalidraw-plugin",
-  "obsidian-kanban",
-  "obsidian-git",
-  "obsidian-linter",
-  "js-engine",
-  "url-display",
-  "source-scanner",
-  "omnisearch",
-  "markdown-prettifier",
   "obsidian-paste-to-current-indentation",
-  "ticktick",
-  "text-extractor",
-  "rss-reader",
-  "folder-notes",
-  "copy-url-in-preview",
-  "url-into-selection"
+  "folder-note-plugin"
 ]
