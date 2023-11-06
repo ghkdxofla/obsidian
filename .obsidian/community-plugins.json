@@ -1,4 +1,20 @@
 [
   "obsidian-paste-to-current-indentation",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "url-display",
+  "ticktick",
+  "text-extractor",
+  "source-scanner",
+  "rss-reader",
+  "url-into-selection",
+  "omnisearch",
+  "obsidian-git",
+  "markdown-prettifier",
+  "obsidian-linter",
+  "obsidian-kanban",
+  "js-engine",
+  "obsidian-importer",
+  "folder-notes",
+  "obsidian-excalidraw-plugin",
+  "copy-url-in-preview"
 ]

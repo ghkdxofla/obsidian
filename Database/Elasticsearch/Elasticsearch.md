@@ -81,7 +81,7 @@ networks:
 	elastic: 
 		driver: bridge
 ```
-# [[Trouble-Shooting]]
+# [[Trouble-Shooting/Trouble-Shooting]]
 ### Docker compose로 올렸을 때, 초기 기동 후 종료되는 경우
 - Memory issue일 수 있다
 	- `ERROR: Elasticsearch exited unexpectedly, with exit code 78`

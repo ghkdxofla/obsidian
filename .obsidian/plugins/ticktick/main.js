@@ -5547,9 +5547,9 @@ var TickTickPlugin = class extends import_obsidian.Plugin {
       }
     };
     this.getFileLink = (file) => {
-      return `obsidian://open?vault=${file.vault.getName()}&file=${encodeURIComponent(
-        file.name
-      )}`;
+      return `obsidian://open?vault=${encodeURIComponent(
+        file.vault.getName()
+      )}&file=${encodeURIComponent(file.name)}`;
     };
     this.checkUserLoginStatus = () => {
       const isLogin = this.settings.login;

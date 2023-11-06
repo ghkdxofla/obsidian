@@ -6,7 +6,7 @@
 	3. **데이터 탐색**: Elasticsearch에 저장된 데이터를 검색하고 필터링할 수 있는 기능을 제공합니다.
 	4. **머신 러닝**: 데이터의 이상 징후를 감지하고 예측 분석을 수행할 수 있습니다.
 	5. **보고서 생성**: 시각화 및 대시보드를 PDF, CSV 등의 형태로 내보낼 수 있습니다.
-# [[Trouble-Shooting]]
+# [[Trouble-Shooting/Trouble-Shooting]]
 ### 8.x 버전 이상에서 `error code 78` 등으로 shotdown될 경우
 - 8.x 버전 이상부터 보안이 강화되어 [[Database]]에 옵션을 주지 않으면 보안 이슈로 종료됨
 - `xpack.security.enabled=false`로 비활성화
