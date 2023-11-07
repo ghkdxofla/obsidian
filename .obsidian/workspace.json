@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Language/Rust/Rust.md",
+                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Language/Rust/Rust.md",
+                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Language/Rust/Rust.md",
+                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Language/Rust/Rust.md"
+                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md"
               }
             }
           },
@@ -189,17 +189,24 @@
   },
   "active": "47c2ff8e846d95d1",
   "lastOpenFiles": [
+    "Cloud/AWS/Amazon VPC.md",
+    "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
+    "Attachments/Pasted image 20231107164908.png",
+    "Attachments/Pasted image 20231107164734.png",
+    "Attachments/Pasted image 20231107164211.png",
+    "Attachments/Pasted image 20231107164003.png",
+    "Attachments/Pasted image 20231107163505.png",
+    "Cloud/AWS/VPC Flow Log.md",
+    "Cloud/AWS/AWS Skill Builder/AWS Skill Builder.md",
+    "Programming Language/Rust/Rust.md",
     "IoT/Arduino/ESP32C3.md",
     "Attachments/Pasted image 20231107144531.png",
     "IoT/Arduino/Arduino.md",
     "IoT/IoT.md",
     "IoT/Arduino",
-    "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
     "IoT",
     "Attachments/Pasted image 20231107135654.png",
     "Attachments/Pasted image 20231107113011.png",
-    "Cloud/AWS/AWS Skill Builder/AWS Skill Builder.md",
-    "Cloud/AWS/무제 파일.md",
     "Cloud/AWS/AWS Skill Builder",
     "Cloud/AWS/AWS.md",
     "Cloud/Cloud.md",
@@ -226,13 +233,6 @@
     "Version Control System(VCS)/Git",
     "Version Control System(VCS)",
     "CI & CD",
-    "Programming Language/Javascript & Typescript/Lint.md",
-    "Programming Language/Javascript & Typescript/Prettier.md",
-    "Template/Template.md",
-    "Attachments/Pasted image 20230929122428.png",
-    "Attachments/Pasted image 20231029184731.png",
-    "Untitled 6.png",
-    "Rust_programming_language_black_logo.svg.png",
-    "Untitled 37.png"
+    "Programming Language/Javascript & Typescript/Lint.md"
   ]
 }
