@@ -11,10 +11,11 @@
             "id": "47c2ff8e846d95d1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Programming Language/Typescript/Prettier.md",
-                "staged": false
+                "file": "Programming Language/Rust/Rust.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Language/Rust/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Language/Rust/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Language/Rust/Rust.md"
+              }
             }
           },
           {
@@ -184,19 +189,34 @@
   },
   "active": "47c2ff8e846d95d1",
   "lastOpenFiles": [
-    "CI & CD/CI & CD.md",
+    "IoT/Arduino/ESP32C3.md",
+    "Attachments/Pasted image 20231107144531.png",
+    "IoT/Arduino/Arduino.md",
+    "IoT/IoT.md",
+    "IoT/Arduino",
+    "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
+    "IoT",
+    "Attachments/Pasted image 20231107135654.png",
+    "Attachments/Pasted image 20231107113011.png",
+    "Cloud/AWS/AWS Skill Builder/AWS Skill Builder.md",
+    "Cloud/AWS/무제 파일.md",
+    "Cloud/AWS/AWS Skill Builder",
+    "Cloud/AWS/AWS.md",
     "Cloud/Cloud.md",
+    "Cloud/AWS",
+    "Version Control System(VCS)/Github/Github Actions/Cache.md",
+    "Version Control System(VCS)/Github/Github Actions/Lint Action.md",
+    "Programming Language/Python/RustPython.md",
+    "CI & CD/CI & CD.md",
     "Trouble-Shooting/Trouble-Shooting.md",
     "Version Control System(VCS)/Github/Github Actions/Github Actions.md",
     "Attachments/Pasted image 20231105215833.png",
     "Attachments/Pasted image 20231105215828.png",
-    "Version Control System(VCS)/Github/Github Actions/Cache.md",
     "Version Control System(VCS)/Github/Github Actions/무제 폴더/무제 폴더.md",
     "Version Control System(VCS)/Github/Github Actions/무제 폴더",
     "Version Control System(VCS)/Github/Github.md",
     "Version Control System(VCS)/Git/Git.md",
     "Version Control System(VCS)/Git/무제 파일.md",
-    "Version Control System(VCS)/Github/Github Actions/Lint Action.md",
     "Programming Language/Javascript & Typescript/Javascript & Typescript.md",
     "Javascript.md",
     "Version Control System(VCS)/Github/Github Actions.md",
@@ -207,27 +227,12 @@
     "Version Control System(VCS)",
     "CI & CD",
     "Programming Language/Javascript & Typescript/Lint.md",
-    "Cloud",
     "Programming Language/Javascript & Typescript/Prettier.md",
     "Template/Template.md",
-    "Database/Elasticsearch/Plugin/Nori.md",
-    "Template/Template (177981).md",
-    "Template",
-    "Framework/Django/Library/django-elasticsearch-dsl-drf.md",
-    "Framework/Django/Library/django-elasticsearch-dsl.md",
-    "Framework/Strapi/Plugin/strapi-plugin-fuzzy-search.md",
-    "Framework/Strapi/Plugin/strapi-plugin-generate-data.md",
-    "Framework/Flask.md",
-    "Framework/Next.js.md",
-    "Database/Elasticsearch/Plugin",
-    "Database/Elasticsearch",
     "Attachments/Pasted image 20230929122428.png",
     "Attachments/Pasted image 20231029184731.png",
     "Untitled 6.png",
     "Rust_programming_language_black_logo.svg.png",
-    "Untitled 37.png",
-    "Untitled 38.png",
-    "Untitled 1 4.png",
-    "Untitled 55.png"
+    "Untitled 37.png"
   ]
 }
