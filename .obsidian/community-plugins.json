@@ -1,6 +1,7 @@
 [
   "obsidian-paste-to-current-indentation",
   "folder-note-plugin",
+  "folder-notes",
   "url-display",
   "ticktick",
   "text-extractor",
@@ -14,7 +15,6 @@
   "obsidian-kanban",
   "js-engine",
   "obsidian-importer",
-  "folder-notes",
   "obsidian-excalidraw-plugin",
   "copy-url-in-preview"
 ]

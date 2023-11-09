@@ -20,7 +20,7 @@
       "string": ""
     }
   ],
-  "showDeleteConfirmation": true,
+  "showDeleteConfirmation": false,
   "underlineFolder": true,
   "allowWhitespaceCollapsing": false,
   "underlineFolderInPath": true,
@@ -67,5 +67,6 @@
   "boldName": false,
   "boldNameInPath": false,
   "cursiveName": false,
-  "cursiveNameInPath": false
+  "cursiveNameInPath": false,
+  "disableOpenFolderNoteOnClick": false
 }

@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
+                "file": "Database/Elasticsearch/Elasticsearch.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
+                "file": "Database/Elasticsearch/Elasticsearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
+                "file": "Database/Elasticsearch/Elasticsearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md"
+                "file": "Database/Elasticsearch/Elasticsearch.md"
               }
             }
           },
@@ -182,15 +183,29 @@
       "workspaces:작업 공간 레이아웃 관리": false,
       "url-display:Open or close url display": false,
       "source-scanner:Comment Scanner": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "47c2ff8e846d95d1",
   "lastOpenFiles": [
-    "Cloud/AWS/Amazon VPC.md",
+    "Framework/Django/Library/django-elasticsearch-dsl.md",
+    "Framework/Strapi/Plugin/strapi-plugin-fuzzy-search.md",
+    "Framework/Django/Library/django-elasticsearch-dsl-drf.md",
+    "Test/Tools/Tools.md",
+    "Test/Performance Test.md",
+    "Test/Tools/Locust.md",
+    "Test/Tools/K6.md",
+    "Test/Test.md",
+    "Test/Tools",
+    "Application/Grafana.md",
+    "Version Control System(VCS)/Github/Github Actions/Lint Action.md",
+    "Test",
+    "CI & CD/CI & CD.md",
+    "Programming Language/Javascript & Typescript/Prettier.md",
+    "Programming Language/Javascript & Typescript/Lint.md",
+    "Programming Language/Javascript & Typescript/Javascript & Typescript.md",
     "Cloud/AWS/AWS Skill Builder/AWS Security Fundamentals.md",
+    "Cloud/AWS/Amazon VPC.md",
     "Attachments/Pasted image 20231107164908.png",
     "Attachments/Pasted image 20231107164734.png",
     "Attachments/Pasted image 20231107164211.png",
@@ -212,27 +227,12 @@
     "Cloud/Cloud.md",
     "Cloud/AWS",
     "Version Control System(VCS)/Github/Github Actions/Cache.md",
-    "Version Control System(VCS)/Github/Github Actions/Lint Action.md",
     "Programming Language/Python/RustPython.md",
-    "CI & CD/CI & CD.md",
-    "Trouble-Shooting/Trouble-Shooting.md",
-    "Version Control System(VCS)/Github/Github Actions/Github Actions.md",
     "Attachments/Pasted image 20231105215833.png",
     "Attachments/Pasted image 20231105215828.png",
-    "Version Control System(VCS)/Github/Github Actions/무제 폴더/무제 폴더.md",
     "Version Control System(VCS)/Github/Github Actions/무제 폴더",
-    "Version Control System(VCS)/Github/Github.md",
-    "Version Control System(VCS)/Git/Git.md",
-    "Version Control System(VCS)/Git/무제 파일.md",
-    "Programming Language/Javascript & Typescript/Javascript & Typescript.md",
-    "Javascript.md",
-    "Version Control System(VCS)/Github/Github Actions.md",
     "Version Control System(VCS)/Github/Github Actions",
-    "Version Control System(VCS)/Version Control System(VCS).md",
     "Version Control System(VCS)/Github",
-    "Version Control System(VCS)/Git",
-    "Version Control System(VCS)",
-    "CI & CD",
-    "Programming Language/Javascript & Typescript/Lint.md"
+    "Version Control System(VCS)/Git"
   ]
 }

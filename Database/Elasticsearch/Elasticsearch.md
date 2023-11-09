@@ -19,10 +19,15 @@ services:
 		environment: 
 			- node.name=es01
 			- cluster.name=es-docker-cluster
-			- discovery.seed_hosts=es02,es03
+			# multi node로 사용할 경우
+		    - discovery.seed_hosts=es02,es03
 			- cluster.initial_master_nodes=es01,es02,es03
+		    # single node로 사용할 경우
+			# - discovery.type=single-node
 			- bootstrap.memory_lock=true
 			- "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+			# 보안 기능 비활성화(dev only)
+		    - xpack.security.enabled=false
 		ulimits: 
 			memlock: 
 				soft: -1 
