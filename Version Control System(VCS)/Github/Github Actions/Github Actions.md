@@ -1,4 +1,4 @@
-# [[Trouble-Shooting]]
+# [[Trouble Shooting]]
 ### Error: Received status code 403. Resource not accessible by integration [https://docs.github.com/rest/checks/runs#create-a-check-run](https://docs.github.com/rest/checks/runs#create-a-check-run)
 1. workflow에 `permissions`를 설정한다
 ```yaml

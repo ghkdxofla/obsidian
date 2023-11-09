@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Elasticsearch/Elasticsearch.md",
+                "file": "Application/Kibana.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f187db79f7867d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trouble Shooting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Elasticsearch/Elasticsearch.md",
+                "file": "Trouble Shooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Elasticsearch/Elasticsearch.md",
+                "file": "Trouble Shooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Elasticsearch/Elasticsearch.md"
+                "file": "Trouble Shooting.md"
               }
             }
           },
@@ -183,11 +197,19 @@
       "workspaces:작업 공간 레이아웃 관리": false,
       "url-display:Open or close url display": false,
       "source-scanner:Comment Scanner": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47c2ff8e846d95d1",
+  "active": "2f187db79f7867d3",
   "lastOpenFiles": [
+    "Trouble Shooting.md",
+    "Trouble Shooting.md",
+    "Version Control System(VCS)/Github/Github Actions/Github Actions.md",
+    "Application/Kibana.md",
+    "Trouble-Shooting/Trouble-Shooting.md",
+    "Database/Elasticsearch/Elasticsearch.md",
     "Framework/Django/Library/django-elasticsearch-dsl.md",
     "Framework/Strapi/Plugin/strapi-plugin-fuzzy-search.md",
     "Framework/Django/Library/django-elasticsearch-dsl-drf.md",
@@ -216,18 +238,12 @@
     "Programming Language/Rust/Rust.md",
     "IoT/Arduino/ESP32C3.md",
     "Attachments/Pasted image 20231107144531.png",
-    "IoT/Arduino/Arduino.md",
-    "IoT/IoT.md",
     "IoT/Arduino",
     "IoT",
     "Attachments/Pasted image 20231107135654.png",
     "Attachments/Pasted image 20231107113011.png",
     "Cloud/AWS/AWS Skill Builder",
-    "Cloud/AWS/AWS.md",
-    "Cloud/Cloud.md",
     "Cloud/AWS",
-    "Version Control System(VCS)/Github/Github Actions/Cache.md",
-    "Programming Language/Python/RustPython.md",
     "Attachments/Pasted image 20231105215833.png",
     "Attachments/Pasted image 20231105215828.png",
     "Version Control System(VCS)/Github/Github Actions/무제 폴더",
