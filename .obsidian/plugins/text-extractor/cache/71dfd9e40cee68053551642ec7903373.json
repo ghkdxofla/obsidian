@@ -1,0 +1,1 @@
+{"path":"Attachments/Pasted image 20231111175016.png","text":"Main request: defines origin. CET / (main page) / Web server [ domain-a.com GET image.png . ㅣ Same-origin reqUests (always allowed) GET image.png GET webfont.eot ; Web server B domain-b.com web document Cross-origin requésts - ㅡ domain-a.com - , (controlled by CORS)","libVersion":"0.2.3","langs":"eng+kor"}
