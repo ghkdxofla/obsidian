@@ -5,6 +5,7 @@
 - ex) `https://domain-a.com`의 프론트엔드 JavaScript 코드가 [`XMLHttpRequest`](https://developer.mozilla.org/ko/docs/Web/API/XMLHttpRequest)를 사용하여 `https://domain-b.com/data.json`을 요청하는 경우
 - ![[Pasted image 20231111175016.png]]
 # Content
-- TBD
+- [[TBD]]
 # Reference
 - [교차 출처 리소스 공유 (CORS)](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
+- [CORS(Cross-Origin Resource Sharing)](https://docs.aws.amazon.com/ko_kr/sdk-for-javascript/v2/developer-guide/cors.html)

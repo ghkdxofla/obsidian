@@ -2,7 +2,8 @@
 - [[Elasticsearch]]를 [[Python]]에서 쉽게 사용하게 해주는 `elasticsearch-dsl` [[Library]]의 [[Django]] 에 쓰기 편한 형태로 만든 [[Library]]
 - [[Django]] 에서 사용하는 Model 정의와 유사하게 `Document`를 구성할 수 있음
 - drf를 여기에 추가한 것이 [[django-elasticsearch-dsl-drf]]
-# Setup
+# Content
+## Setup
 - pipenv를 사용하는 경우, `Pipfile`에 추가
 ```
 ...
@@ -13,7 +14,9 @@ django-elasticsearch-dsl = "*"
 pip install django-elasticsearch-dsl
 ```
 - [[Elasticsearch]] 설치의 경우, [[Elasticsearch#Docker Compose]] 참고
-- 설치 후 `settings.py`에 추가
+## Configuration
+### Local Elasticsearch와 연동하기
+- `settings.py`에 추가
 ```python
 INSTALLED_APPS += [
     # Django Elasticsearch DSL
@@ -27,8 +30,35 @@ ELASTICSEARCH_DSL = {
     },
 }
 ```
-# Example
-### Document 등록
+### Elastic Cloud와 연동하기
+`settings.py`에 추가
+```python
+INSTALLED_APPS += [
+    # Django Elasticsearch DSL
+    'django_elasticsearch_dsl',
+]
+
+# CLOUD_ID, CLOUD_PASSWORD
+CLOUD_ID = "{BRING_YOUR_OWN_CLOUD_ID}"
+CLOUD_PASSWORD = "{BRING_YOUR_OWN_CLOUD_PASSWORD}"
+
+# Elasticsearch
+ELASTICSEARCH_DSL = {  
+   'default': {   
+	   'cloud_id': CLOUD_ID,  
+	   'basic_auth': ('elastic', CLOUD_PASSWORD),  
+   },  
+}
+```
+- [참고](https://www.elastic.co/guide/en/elasticsearch/client/python-api/8.0/connecting.html#connect-ec)
+### 추가 Configuration
+- 기본적으로 `ELASTICSEARCH_DSL_AUTOSYNC`=true라, 자동으로 sync 된다
+- [참고](https://django-elasticsearch-dsl.readthedocs.io/en/latest/settings.html)
+### Tokenizer
+#### Elastic Cloud에서 Tokenizer 설정하기
+
+## Example
+#### Document 등록
 ```python
 from django_elasticsearch_dsl import Document, fields
 from django_elasticsearch_dsl.registries import registry

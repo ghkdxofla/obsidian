@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/CORS.md",
+                "file": "Framework/Django/Library/django-elasticsearch-dsl/Nested Field.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8705a30db22e6a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/AWS/Service/OpenSearch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69d908b092b201c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/AWS/Service/OpenSearch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/CORS.md",
+                "file": "Cloud/AWS/Service/OpenSearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/CORS.md",
+                "file": "Cloud/AWS/Service/OpenSearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/CORS.md"
+                "file": "Cloud/AWS/Service/OpenSearch.md"
               }
             }
           },
@@ -202,52 +228,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f187db79f7867d3",
+  "active": "69d908b092b201c4",
   "lastOpenFiles": [
-    "Cloud/AWS/Service/Elastic Beanstalk.md",
-    "Computer Science/Network/CORS.md",
-    "Attachments/Pasted image 20231111175016.png",
-    "Computer Science/Network/Network.md",
-    "Computer Science/Network",
-    "Application/Nginx.md",
-    "Cloud/AWS/AWS.md",
-    "Cloud/AWS/Service/무제 폴더/무제 폴더.md",
-    "Cloud/AWS/Service/무제 폴더",
-    "Trouble Shooting.md",
-    "Cloud/AWS/Service/Amazon S3.md",
-    "Cloud/AWS/Service/VPC Flow Log.md",
-    "Cloud/AWS/Service/Amazon VPC.md",
-    "Attachments/Pasted image 20231111171914.png",
-    "Attachments/Pasted image 20231111171754.png",
-    "Cloud/AWS/ACL.md",
-    "Cloud/AWS/Education/AWS Skill Builder/AWS Skill Builder.md",
-    "Cloud/AWS/무제 폴더/무제 폴더.md",
-    "Cloud/AWS/Education",
-    "Cloud/AWS/Service",
-    "Database/Druid.md",
-    "README.md",
-    "Version Control System(VCS)/Github/Github Actions/Github Actions.md",
-    "Application/Kibana.md",
-    "Trouble-Shooting/Trouble-Shooting.md",
     "Database/Elasticsearch/Elasticsearch.md",
-    "Framework/Django/Library/django-elasticsearch-dsl.md",
-    "Framework/Strapi/Plugin/strapi-plugin-fuzzy-search.md",
-    "Framework/Django/Library/django-elasticsearch-dsl-drf.md",
-    "Test/Tools/Tools.md",
-    "Test/Performance Test.md",
-    "Test/Tools/Locust.md",
-    "Test/Tools",
-    "Test",
-    "Attachments/Pasted image 20231107164908.png",
-    "Attachments/Pasted image 20231107164734.png",
-    "Attachments/Pasted image 20231107164211.png",
-    "Attachments/Pasted image 20231107164003.png",
-    "Attachments/Pasted image 20231107163505.png",
-    "Attachments/Pasted image 20231107144531.png",
-    "IoT/Arduino",
-    "IoT",
-    "Attachments/Pasted image 20231107135654.png",
-    "Cloud/AWS/Education/AWS Skill Builder",
-    "Cloud/AWS"
+    "Cloud/AWS/Service/OpenSearch.md",
+    "Cloud/AWS/Service/Service.md",
+    "Cloud/AWS/Service/Amazon S3.md",
+    "Cloud/AWS/Service/Elastic Beanstalk.md",
+    "Attachments/Pasted image 20231125122050.png",
+    "Attachments/Pasted image 20231125121955.png",
+    "Attachments/Pasted image 20231125121758.png",
+    "Attachments/Pasted image 20231125121648.png",
+    "Attachments/Pasted image 20231125121102.png",
+    "Attachments/Pasted image 20231125121029.png",
+    "Attachments/Pasted image 20231125121009.png",
+    "Attachments/Pasted image 20231125120933.png",
+    "Attachments/Pasted image 20231125120834.png",
+    "Attachments/Pasted image 20231125120816.png",
+    "Framework/Django/Library/django-elasticsearch-dsl/Nested Field.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
+    "Framework/Django/Library/django-elasticsearch-dsl/django-elasticsearch-dsl.md",
+    "Framework/Django/Library/Library.md",
+    "Framework/Django/Library/django-elasticsearch-dsl",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Mappings.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Settings.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Index Settings & Mappings.md",
+    "Database/Elasticsearch/Index Settings & Mappings",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings",
+    "Cloud/AWS/Service/Amazon VPC.md",
+    "Cloud/AWS/Service/VPC Flow Log.md",
+    "Cloud/AWS/AWS.md",
+    "Database/MySQL/Trouble-Shooting.md",
+    "Database/MySQL/MySQL.md",
+    "Database/무제 폴더/무제 폴더.md",
+    "Database/무제 폴더",
+    "Database/Database.md",
+    "Database/MySQL",
+    "Computer Science/Network/Caching.md",
+    "Computer Science/Network/Network.md",
+    "Database/Database Migration.md",
+    "Programming Language/Rust/Learning/Microsoft - Rust로 첫 번째 단계 수행.md",
+    "Programming Language/Rust/Rust.md",
+    "Programming Language/Rust/Learning/Learning.md",
+    "Programming Language/Rust/Learning",
+    "Programming Language/Python/Python.md",
+    "Page",
+    "Monitoring/Datadog",
+    "Monitoring",
+    "Book"
   ]
 }

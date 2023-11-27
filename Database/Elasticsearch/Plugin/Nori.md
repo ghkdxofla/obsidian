@@ -39,5 +39,18 @@ services:
       || ./bin/elasticsearch-plugin install analysis-nori; 
       /usr/local/bin/docker-entrypoint.sh"
 ```
+### Elastic Cloud에서 설정하는 경우
+- `Hosted Deployments` 에서 `Deployment` 또는 `Open` 클릭
+![[Pasted image 20231121185213.png]]
+- `Manage this deployment` 클릭
+![[Pasted image 20231121185651.png]]
+- `Deployment` 선택 후 `Actions` 클릭 -> `Edit deployment` 클릭
+![[Pasted image 20231122203619.png]]
+- `Manage user settings and extensions` 클릭
+![[Pasted image 20231122203709.png]]- `Extensions` 클릭 후 원하는 Plugin 추가 -> 원래 화면으로 돌아가 `Save`
+![[Pasted image 20231122203756.png]]
+- 이후 재배포가 진행되며, 정상 배포되는지 확인
+![[Pasted image 20231121190543.png]]
 # Reference
 https://stackoverflow.com/questions/39691652/how-to-install-elasticseach-plugins-using-docker-compose
+[Korean (nori) analysis plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-nori.html)

@@ -1,3 +1,6 @@
+# Abstract
+- [[TBD]]
+# Content
 ### mark-and-sweep
 - mark(표시)하고 sweep(청소)하는 알고리즘
 -  GC를 진행하는 동안 전체 시스템을 freeze 시켜야 한다

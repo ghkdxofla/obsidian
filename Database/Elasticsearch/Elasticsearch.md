@@ -1,4 +1,7 @@
 # Abstract
+- 최초 검색엔진으로 쓰기위해 만들어진 데이터베이스
+- AWS 에서는 `OpenSearch` 라는 이름으로 forked version 제공
+- [[Elastic Cloud]]라는 제품으로 Elastic에서 Managed Service 제공
 
 # Setup
 ### Docker
