@@ -52,7 +52,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/Service/OpenSearch.md",
+                "file": "Cloud/AWS/Service/AWS Certificate Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "449c7e3b995dd35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/MySQL/MySQL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe1dc43741e8ddfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Network/CNAME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/AWS/Service/OpenSearch.md",
+                "file": "Computer Science/Network/CNAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/AWS/Service/OpenSearch.md",
+                "file": "Computer Science/Network/CNAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/AWS/Service/OpenSearch.md"
+                "file": "Computer Science/Network/CNAME.md"
               }
             }
           },
@@ -228,13 +254,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69d908b092b201c4",
+  "active": "fe1dc43741e8ddfc",
   "lastOpenFiles": [
-    "Database/Elasticsearch/Elasticsearch.md",
-    "Cloud/AWS/Service/OpenSearch.md",
-    "Cloud/AWS/Service/Service.md",
+    "Computer Science/Network/Name Server(NS).md",
+    "Computer Science/Network/CNAME.md",
+    "Computer Science/Network/Network.md",
+    "Cloud/AWS/Service/AWS Certificate Manager.md",
+    "임시 작성.md",
     "Cloud/AWS/Service/Amazon S3.md",
+    "Trouble Shooting.md",
+    "Database/MySQL/MySQL.md",
+    "Database/MySQL/Trouble Shooting.md",
+    "Database/Elasticsearch/Plugin/Nori.md",
+    "Database/Redis/Redis.md",
+    "Cloud/AWS/Service/Service.md",
+    "Database/Redis",
+    "Framework/Strapi/Usage/API/Filter.md",
+    "Framework/Strapi/Usage/API/File Upload API.md",
+    "Framework/Strapi/Strapi.md",
+    "Framework/Strapi/Usage/API/Pagination.md",
+    "Framework/Strapi/Plugin/strapi-plugin-fuzzy-search.md",
+    "Framework/Strapi/Provider/provider-upload-aws-s3.md",
+    "Application/Nginx.md",
+    "Computer Science/Network/CORS.md",
+    "Cloud/AWS/Service/Elastic Beanstalk/Network 설정.md",
+    "Cloud/AWS/Service/Elastic Beanstalk/Elastic Beanstalk.md",
+    "Cloud/AWS/Service/Elastic Beanstalk/Infra 설정.md",
     "Cloud/AWS/Service/Elastic Beanstalk.md",
+    "Cloud/AWS/Service/Elastic Beanstalk",
+    "Web/SEO(Search Engine Optimization)/SEO(Search Engine Optimization).md",
+    "Web/Web.md",
+    "Web/SEO(Search Engine Optimization)",
+    "Web",
+    "Computer Science/Programming/OOP(Object-Oriented Programming)",
+    "Computer Science/Programming",
     "Attachments/Pasted image 20231125122050.png",
     "Attachments/Pasted image 20231125121955.png",
     "Attachments/Pasted image 20231125121758.png",
@@ -245,36 +298,9 @@
     "Attachments/Pasted image 20231125120933.png",
     "Attachments/Pasted image 20231125120834.png",
     "Attachments/Pasted image 20231125120816.png",
-    "Framework/Django/Library/django-elasticsearch-dsl/Nested Field.md",
-    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
-    "Framework/Django/Library/django-elasticsearch-dsl/django-elasticsearch-dsl.md",
-    "Framework/Django/Library/Library.md",
     "Framework/Django/Library/django-elasticsearch-dsl",
-    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Mappings.md",
-    "Database/Elasticsearch/Index Settings & Mappings/Settings.md",
-    "Database/Elasticsearch/Index Settings & Mappings/Index Settings & Mappings.md",
     "Database/Elasticsearch/Index Settings & Mappings",
     "Database/Elasticsearch/Index Settings & Mappings/Mappings",
-    "Cloud/AWS/Service/Amazon VPC.md",
-    "Cloud/AWS/Service/VPC Flow Log.md",
-    "Cloud/AWS/AWS.md",
-    "Database/MySQL/Trouble-Shooting.md",
-    "Database/MySQL/MySQL.md",
-    "Database/무제 폴더/무제 폴더.md",
-    "Database/무제 폴더",
-    "Database/Database.md",
-    "Database/MySQL",
-    "Computer Science/Network/Caching.md",
-    "Computer Science/Network/Network.md",
-    "Database/Database Migration.md",
-    "Programming Language/Rust/Learning/Microsoft - Rust로 첫 번째 단계 수행.md",
-    "Programming Language/Rust/Rust.md",
-    "Programming Language/Rust/Learning/Learning.md",
-    "Programming Language/Rust/Learning",
-    "Programming Language/Python/Python.md",
-    "Page",
-    "Monitoring/Datadog",
-    "Monitoring",
-    "Book"
+    "Database/MySQL"
   ]
 }

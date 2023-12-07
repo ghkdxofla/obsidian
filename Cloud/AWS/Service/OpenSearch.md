@@ -15,7 +15,11 @@
 |Django호환 여부|==**직접 연동 필요 및 리서치 해야 함**==|django-opensearch-dsl로 연동 가능(단, 라이브러리 스타가 18개로 적다)|**django-elasticsearch-ds**l로 연동 가능|
 |사용 예시|검색 사용량이 매우 가변적이고, 양이 적을 경우|**어플리케이션 검색**|분석 및 기계학습 확장, Fuzzy search|
 |종합|설정은 쉬우나 Region 미지원 및 초기 단계의 서비스이므로 적용 어려움|AWS에서 클라우드 변경할 경우가 아니라면 적용 시 보안적 측면과 다른 서비스와 연결 측면에서 좋음 염려점 : Django 호환 라이브러리가 star 수가 적은 점|Elastic Cloud를 통해 구축이 쉬울 수 있음 단, [cloud.elastic.co](http://cloud.elastic.co/)에서 별도 관리가 필요해보임 **성능 대비 비용이 저렴하다는 것이 큰 장점** - 동 성능|
+## Setup
+- [[TBD]]
 
 # Reference
 - [Amazon OpenSearch Deep dive - 내부구조, 성능최적화 그리고 스케일링](https://www.slideshare.net/awskorea/t2s2pdf)
 	- 비용 산정이나 어떻게 구성해야할지 모른다면 이 슬라이드가 최고
+- [# 후기 서비스 AWS Opensearch 도입기](https://helloworld.kurly.com/blog/2023-review-opensearch/)
+	- OpenSearch 도입 과정에서 겪은 이슈나 성능 측정 등 자세하게 나와있음

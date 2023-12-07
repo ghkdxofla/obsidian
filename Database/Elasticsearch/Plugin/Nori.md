@@ -54,3 +54,4 @@ services:
 # Reference
 https://stackoverflow.com/questions/39691652/how-to-install-elasticseach-plugins-using-docker-compose
 [Korean (nori) analysis plugin](https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-nori.html)
+[Elastic Cloud에서 Nori Tokenizer 설치하기 (Extensions 활용)](https://dianakang.tistory.com/52)
