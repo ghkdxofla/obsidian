@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/CNAME.md",
+                "file": "Monitoring/Datadog/Integration with K6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/CNAME.md",
+                "file": "Monitoring/Datadog/Integration with K6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/CNAME.md",
+                "file": "Monitoring/Datadog/Integration with K6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/CNAME.md"
+                "file": "Monitoring/Datadog/Integration with K6.md"
               }
             }
           },
@@ -256,8 +256,10 @@
   },
   "active": "fe1dc43741e8ddfc",
   "lastOpenFiles": [
-    "Computer Science/Network/Name Server(NS).md",
+    "Attachments/Pasted image 20231207150622.png",
+    "Monitoring/Datadog/Datadog.md",
     "Computer Science/Network/CNAME.md",
+    "Computer Science/Network/Name Server(NS).md",
     "Computer Science/Network/Network.md",
     "Cloud/AWS/Service/AWS Certificate Manager.md",
     "임시 작성.md",
@@ -282,8 +284,6 @@
     "Cloud/AWS/Service/Elastic Beanstalk/Infra 설정.md",
     "Cloud/AWS/Service/Elastic Beanstalk.md",
     "Cloud/AWS/Service/Elastic Beanstalk",
-    "Web/SEO(Search Engine Optimization)/SEO(Search Engine Optimization).md",
-    "Web/Web.md",
     "Web/SEO(Search Engine Optimization)",
     "Web",
     "Computer Science/Programming/OOP(Object-Oriented Programming)",
