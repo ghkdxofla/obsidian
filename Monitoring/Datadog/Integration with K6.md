@@ -7,7 +7,7 @@
     - **Gmail 등의 서비스에서 + 연산자를 이용한 별칭 주소로도 추가 생성 가능**
 ## Setup
 - Datadog agent 설치 및 API Key 세팅
-    - [설치 안내 문서]([https://app.datadoghq.com/account/settings?_gl=1*1qy7mr1*_ga*ODM1MzU3MzEuMTYzMjM3OTkzMg](https://app.datadoghq.com/account/settings?_gl=1*1qy7mr1*_ga*ODM1MzU3MzEuMTYzMjM3OTkzMg)..__ga_KN80RDFSQK_MTYzMjM4MjM0My4yLjEuMTYzMjM4MjUxMC4w#agent/mac)에 따라 설치
+    - [설치 안내 문서](https://app.datadoghq.com/integrations/k6?search=k6&_gl=1%2A1qy7mr1%2A_ga%2AODM1MzU3MzEuMTYzMjM3OTkzMg)에 따라 설치
 - Mac 기준
 ```bash
 DD_AGENT_MAJOR_VERSION=7 DD_API_KEY={API_KEY}

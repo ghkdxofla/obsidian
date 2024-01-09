@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "8705a30db22e6a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/AWS/Service/OpenSearch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "69d908b092b201c4",
             "type": "leaf",
             "state": {
@@ -78,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoring/Datadog/Integration with K6.md",
+                "file": "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "-dsl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monitoring/Datadog/Integration with K6.md",
+                "file": "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monitoring/Datadog/Integration with K6.md",
+                "file": "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monitoring/Datadog/Integration with K6.md"
+                "file": "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch.md"
               }
             }
           },
@@ -256,51 +243,51 @@
   },
   "active": "fe1dc43741e8ddfc",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20231207150622.png",
-    "Monitoring/Datadog/Datadog.md",
-    "Computer Science/Network/CNAME.md",
-    "Computer Science/Network/Name Server(NS).md",
-    "Computer Science/Network/Network.md",
-    "Cloud/AWS/Service/AWS Certificate Manager.md",
-    "임시 작성.md",
-    "Cloud/AWS/Service/Amazon S3.md",
-    "Trouble Shooting.md",
-    "Database/MySQL/MySQL.md",
-    "Database/MySQL/Trouble Shooting.md",
-    "Database/Elasticsearch/Plugin/Nori.md",
-    "Database/Redis/Redis.md",
-    "Cloud/AWS/Service/Service.md",
-    "Database/Redis",
-    "Framework/Strapi/Usage/API/Filter.md",
-    "Framework/Strapi/Usage/API/File Upload API.md",
-    "Framework/Strapi/Strapi.md",
-    "Framework/Strapi/Usage/API/Pagination.md",
-    "Framework/Strapi/Plugin/strapi-plugin-fuzzy-search.md",
-    "Framework/Strapi/Provider/provider-upload-aws-s3.md",
-    "Application/Nginx.md",
-    "Computer Science/Network/CORS.md",
-    "Cloud/AWS/Service/Elastic Beanstalk/Network 설정.md",
+    "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch Dashboards.md",
+    "Programming Language/Python/elasticsearch-dsl/elasticsearch-dsl.md",
+    "Database/OpenSearch/Field.md",
+    "Programming Language/Python/Library/무제 파일.md",
+    "Programming Language/Python/elasticsearch-dsl",
+    "Programming Language/Python/Library/Library.md",
+    "Programming Language/Python/Python.md",
+    "Programming Language/Python/Library",
+    "Library/Library.md",
+    "Framework/Django/Library/django-elasticsearch-dsl/django-elasticsearch-dsl.md",
+    "Database/OpenSearch/OpenSearch.md",
+    "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch.md",
+    "Framework/Django/Django.md",
+    "Cloud/AWS/Service/AWS EC2/AWS EC2.md",
+    "Cloud/AWS/Service/AWS EC2",
+    "Attachments/Pasted image 20240102190453.png",
+    "Attachments/Pasted image 20240102185204.png",
+    "Attachments/Pasted image 20240102184945.png",
+    "Attachments/Pasted image 20240102171401.png",
+    "Attachments/Pasted image 20240102171320.png",
+    "Attachments/Pasted image 20240102171317.png",
+    "Attachments/Pasted image 20240102170413.png",
+    "Attachments/Pasted image 20240102170245.png",
+    "Attachments/Pasted image 20240102170221.png",
+    "Attachments/Pasted image 20240102170033.png",
+    "공통.md",
     "Cloud/AWS/Service/Elastic Beanstalk/Elastic Beanstalk.md",
+    "Cloud/AWS/Service/AWS OpenSearch",
     "Cloud/AWS/Service/Elastic Beanstalk/Infra 설정.md",
-    "Cloud/AWS/Service/Elastic Beanstalk.md",
+    "Application/OpenSearch Dashboards/OpenSearch Dashboards.md",
+    "Framework/Django/Library/django-opensearch-dsl/Document.md",
+    "Framework/Django/Library/django-elasticsearch-dsl/Document.md",
+    "Framework/Django/Library/django-opensearch-dsl/django-opensearch-dsl.md",
+    "Framework/Django/Library/django-opensearch-dsl",
+    "Application/OpenSearch Dashboards",
+    "Framework/Django/Library/django-elasticsearch-dsl/Search.md",
+    "Database/OpenSearch",
+    "Framework/Django/Library/django-elasticsearch-dsl/Nested Field.md",
+    "Database/Elasticsearch/Elasticsearch.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Settings.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Mappings.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Index Settings & Mappings.md",
+    "Database/Redis",
     "Cloud/AWS/Service/Elastic Beanstalk",
-    "Web/SEO(Search Engine Optimization)",
-    "Web",
-    "Computer Science/Programming/OOP(Object-Oriented Programming)",
-    "Computer Science/Programming",
-    "Attachments/Pasted image 20231125122050.png",
-    "Attachments/Pasted image 20231125121955.png",
-    "Attachments/Pasted image 20231125121758.png",
-    "Attachments/Pasted image 20231125121648.png",
-    "Attachments/Pasted image 20231125121102.png",
-    "Attachments/Pasted image 20231125121029.png",
-    "Attachments/Pasted image 20231125121009.png",
-    "Attachments/Pasted image 20231125120933.png",
-    "Attachments/Pasted image 20231125120834.png",
-    "Attachments/Pasted image 20231125120816.png",
-    "Framework/Django/Library/django-elasticsearch-dsl",
-    "Database/Elasticsearch/Index Settings & Mappings",
-    "Database/Elasticsearch/Index Settings & Mappings/Mappings",
-    "Database/MySQL"
+    "Web/SEO(Search Engine Optimization)"
   ]
 }

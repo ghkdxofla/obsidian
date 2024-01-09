@@ -1,5 +1,5 @@
 # Abstract
-- [[Elasticsearch]]를 [[Python]]에서 쉽게 사용하게 해주는 `elasticsearch-dsl` [[Library]]의 [[Django]] 에 쓰기 편한 형태로 만든 [[Library]]
+- [[Elasticsearch]]를 [[Python]]에서 쉽게 사용하게 해주는 `elasticsearch-dsl` [[Library/Library]]의 [[Django]] 에 쓰기 편한 형태로 만든 [[Library/Library]]
 - [[Django]] 에서 사용하는 Model 정의와 유사하게 `Document`를 구성할 수 있음
 - drf를 여기에 추가한 것이 [[django-elasticsearch-dsl-drf]]
 # Content
