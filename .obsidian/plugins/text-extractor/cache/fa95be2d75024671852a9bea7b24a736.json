@@ -1,0 +1,1 @@
+{"path":"Attachments/Pasted image 20240111093746.png","text":"AQT vs JIT: Throughput Handled requests per second 18,000 16,000 14,000 -#- GraalVM AOT 12,000 10,000 -%JDK 8, Java HotSpot VM 8,000 6,000 4,000 2,000 0 1,000 10,000 100,000 1,000,000 10,000,000 Cumulative number of requests sent by ApacheBench","libVersion":"0.2.3","langs":"eng+kor"}

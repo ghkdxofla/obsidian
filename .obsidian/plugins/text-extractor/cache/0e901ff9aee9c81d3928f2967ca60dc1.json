@@ -1,0 +1,1 @@
+{"path":"Attachments/Pasted image 20240111155334.png","text":"{ \"personId\": 1, \"name\": \" 김 부 자 \" , \"gender\": \"M\", \"age\": 27, \"address\": [ { \"personId\": 1, \"country\": \"KR\", \"city\": \"SEOUL\" }1 { \"personId\": 1, \"country\": \"US\", \"city\": \"LOS ANGELES\" } ] }","libVersion":"0.2.3","langs":"eng+kor"}
