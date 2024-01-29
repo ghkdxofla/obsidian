@@ -3,7 +3,8 @@
 - AWS 에서는 `OpenSearch` 라는 이름으로 forked version 제공
 - [[Elastic Cloud]]라는 제품으로 Elastic에서 Managed Service 제공
 
-# Setup
+# Content
+## Setup
 ### Docker
 ```bash
 docker pull docker.elastic.co/elasticsearch/elasticsearch:7.7.1
@@ -95,4 +96,5 @@ networks:
 	- `ERROR: Elasticsearch exited unexpectedly, with exit code 78`
 	- `ERROR: Elasticsearch exited unexpectedly, with exit code 137 es02 exited with code 137`
 # Reference
-[Docker Compose로 Elasticsearch 설정](https://soyoung-new-challenge.tistory.com/110)
+- [Docker Compose로 Elasticsearch 설정](https://soyoung-new-challenge.tistory.com/110)
+- [Elasticsearch, Kibana를 docker-compose로 구동](https://kanoos-stu.tistory.com/34)

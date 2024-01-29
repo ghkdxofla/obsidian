@@ -63,3 +63,4 @@ PUT my_index
 ```
 # Reference
 - [7.1 설정 - Settings](https://esbook.kimjmin.net/07-settings-and-mappings/7.1-settings)
+- [Sizing Amazon OpenSearch Service domains](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/sizing-domains.html)

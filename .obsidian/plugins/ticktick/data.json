@@ -13,7 +13,7 @@
       "id": "3c2d4e84ab110cb394c55fcc",
       "name": "😄개인 - 공부",
       "color": "#9742ea",
-      "sortOrder": -662765568,
+      "sortOrder": -532742144,
       "groupId": "7ed547a78f17cff1df5afdf4",
       "kind": "TASK"
     },
@@ -21,7 +21,7 @@
       "id": "26cc4c028a093cccd8d409c2",
       "name": "😄개인 - 외주",
       "color": "#e03e39",
-      "sortOrder": -671154176,
+      "sortOrder": -533790720,
       "groupId": "7ed547a78f17cff1df5afdf4",
       "kind": "TASK"
     },
@@ -46,6 +46,7 @@
       "name": "💯업무 - 성능 모니터링 TF",
       "color": "transparent",
       "sortOrder": -1275133952,
+      "closed": true,
       "groupId": "0f1c4c9c943d450d053af61b",
       "kind": "TASK"
     },
@@ -61,7 +62,7 @@
       "id": "3bd048909b5eee6bab34b169",
       "name": "😄개인 - 알아둘 것",
       "color": "transparent",
-      "sortOrder": -939589632,
+      "sortOrder": -535887872,
       "groupId": "7ed547a78f17cff1df5afdf4",
       "kind": "TASK"
     },
@@ -69,7 +70,7 @@
       "id": "46024f7283da699e1c170d92",
       "name": "😄개인 - 사이드",
       "color": "transparent",
-      "sortOrder": -654376960,
+      "sortOrder": -266403840,
       "groupId": "7ed547a78f17cff1df5afdf4",
       "kind": "TASK"
     },
@@ -93,8 +94,23 @@
       "id": "cc084761b722bb67d0a61a72",
       "name": "🍀개인 - 1.33x 앱 만들기",
       "color": "transparent",
-      "sortOrder": -738263040,
+      "sortOrder": -534839296,
       "groupId": "7ed547a78f17cff1df5afdf4",
+      "kind": "TASK"
+    },
+    {
+      "id": "65a4889c6fae5113f87d2528",
+      "name": "📶업무 - LLM TF",
+      "sortOrder": -1040252928,
+      "groupId": "0f1c4c9c943d450d053af61b",
+      "kind": "TASK"
+    },
+    {
+      "id": "b223468984978e9b3c3ba16f",
+      "name": "🅰비동기 TF",
+      "color": "transparent",
+      "sortOrder": -2305843010186821600,
+      "groupId": "0f1c4c9c943d450d053af61b",
       "kind": "TASK"
     }
   ],

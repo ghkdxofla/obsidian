@@ -93,7 +93,12 @@ class ExampleModelDocument(Document):
     class Django:
         model = ExampleModel
 ```
+## `get_instances_from_related()` 의 목적?
+- `get_instances_from_related()` is used when one of the `related_models` changes (in our case a `Parent` object). 
+- `django_elasticsearch_dsl` needs a list of all the `Child` objects which reference the `parent` object so it can update the `parent` field of each `child` in the index.
+
 # Reference
-[ElasticSearch 2화: ES 라이브러리 탐방기](https://medium.com/elecle-bike/elasticsearch-2%ED%99%94-es-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%ED%83%90%EB%B0%A9%EA%B8%B0-a23ebdff0290)
-[Elasticsearch와 Django를 연동해 검색 API 개발](https://livetodaykono.tistory.com/64)
-[How to use Elasticsearch with Django?](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
+- [ElasticSearch 2화: ES 라이브러리 탐방기](https://medium.com/elecle-bike/elasticsearch-2%ED%99%94-es-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%ED%83%90%EB%B0%A9%EA%B8%B0-a23ebdff0290)
+- [Elasticsearch와 Django를 연동해 검색 API 개발](https://livetodaykono.tistory.com/64)
+- [How to use Elasticsearch with Django?](https://sunscrapers.com/blog/how-to-use-elasticsearch-with-django/)
+- [What is the purpose of def get_instances_from_related() method in django_elasticsearch_dsl](https://stackoverflow.com/questions/75822692/what-is-the-purpose-of-def-get-instances-from-related-method-in-django-elastic)

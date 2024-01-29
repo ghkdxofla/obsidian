@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6a2fef718e7529",
+        "id": "30781d0f323914ce",
         "type": "tabs",
         "children": [
           {
-            "id": "47c2ff8e846d95d1",
+            "id": "a89e596639a0811c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application/Kibana.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f187db79f7867d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Framework/Django/Library/django-elasticsearch-dsl/Nested Field.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69d908b092b201c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/AWS/Service/AWS Certificate Manager.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449c7e3b995dd35b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/MySQL/MySQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe1dc43741e8ddfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
+                "file": "Cloud/GCP/GCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
+                "file": "Cloud/GCP/GCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
+                "file": "Cloud/GCP/GCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md"
+                "file": "Cloud/GCP/GCP.md"
               }
             }
           },
@@ -243,53 +190,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe1dc43741e8ddfc",
+  "active": "a89e596639a0811c",
   "lastOpenFiles": [
+    "Cloud/GCP/Google App Engine.md",
+    "Framework/Strapi/Usage/Integration.md",
+    "Framework/Strapi/Usage/무제 파일.md",
+    "Cloud/GCP/Google Cloud Storage Bucket.md",
+    "Cloud/무제 폴더/무제 폴더.md",
+    "Cloud/GCP/GCP.md",
+    "Cloud/GCP",
+    "Database/Elasticsearch/Index Settings & Mappings/Settings.md",
+    "Cloud/무제 폴더",
+    "Attachments/Pasted image 20240129102956.png",
+    "Attachments/Pasted image 20240129102543.png",
+    "Attachments/Pasted image 20240129101825.png",
+    "Attachments/Pasted image 20240129101725.png",
+    "Computer Science/Coroutine.md",
+    "Framework/Django/Async/Async.md",
+    "Framework/Django/Async",
+    "Framework/Django/무제 폴더",
+    "Framework/LangChain/LangChain.md",
+    "Framework/LangChain",
+    "Cloud/AWS/무제 폴더/무제 폴더.md",
+    "Cloud/AWS/무제 폴더",
+    "무제 폴더/무제 폴더.md",
+    "무제 폴더",
+    "Framework/무제 폴더",
+    "Programming Language/Python/Library/APScheduler.md",
+    "Framework/Django/Library/django-elasticsearch-dsl/django-elasticsearch-dsl.md",
+    "Framework/Django/Django.md",
+    "Framework/Framework.md",
+    "Database/Elasticsearch/Tokenizer & Analyzer/Tokenizer & Analyzer.md",
+    "Database/Elasticsearch/Search.md",
+    "Database/Elasticsearch/Tokenizer & Analyzer/Nori.md",
+    "Database/Elasticsearch/Tokenizer & Analyzer/Ngram.md",
+    "Database/Elasticsearch/Tokenizer & Analyzer",
+    "Cloud/AWS/Service/AWS EC2/AWS EC2.md",
+    "Attachments/Pasted image 20240124162158.png",
+    "Programming Language/Python/Library/Library.md",
+    "Database/OpenSearch/OpenSearch.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Mappings.md",
+    "Database/Elasticsearch/Index Settings & Mappings/Index Settings & Mappings.md",
+    "Framework/Django/Migration",
     "Attachments/Pasted image 20240111155602.png",
     "Attachments/Pasted image 20240111155334.png",
-    "Database/Elasticsearch/Elasticsearch.md",
-    "Computer Science/Compiler/AoT (Ahead-of-time).md",
     "Attachments/Pasted image 20240111093746.png",
-    "Computer Science/Compiler/JIT (Just-in-time).md",
-    "Programming Language/Java/JVM/GraalVM.md",
-    "Computer Science/Garbage Collection.md",
-    "Computer Science/Compiler/무제 파일.md",
-    "Computer Science/Compiler/Compiler.md",
-    "Computer Science/Compiler",
     "Attachments/Pasted image 20240111093101.png",
-    "Attachments/Pasted image 20240111093051.png",
-    "Programming Language/Java/JVM/JVM.md",
-    "Programming Language/Java/Java.md",
-    "Programming Language/Java/JVM",
-    "Programming Language/C/C.md",
-    "Cloud/AWS/Service/AWS OpenSearch/Monitoring.md",
-    "Programming Language/Java",
-    "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch Dashboards.md",
-    "Trouble Shooting.md",
-    "Framework/Django/Library/django-elasticsearch-dsl/Search.md",
-    "Cloud/AWS/Service/AWS OpenSearch/AWS OpenSearch.md",
-    "Programming Language/Python/elasticsearch-dsl/elasticsearch-dsl.md",
-    "Database/OpenSearch/Field.md",
-    "Programming Language/Python/Library/무제 파일.md",
-    "Programming Language/Python/elasticsearch-dsl",
-    "Programming Language/Python/Library/Library.md",
-    "Programming Language/Python/Python.md",
-    "Programming Language/Python/Library",
-    "Library/Library.md",
-    "Framework/Django/Library/django-elasticsearch-dsl/django-elasticsearch-dsl.md",
-    "Database/OpenSearch/OpenSearch.md",
-    "Framework/Django/Django.md",
-    "Cloud/AWS/Service/AWS EC2/AWS EC2.md",
-    "Cloud/AWS/Service/AWS EC2",
-    "Attachments/Pasted image 20240102190453.png",
-    "Attachments/Pasted image 20240102185204.png",
-    "Attachments/Pasted image 20240102184945.png",
-    "Attachments/Pasted image 20240102171401.png",
-    "Attachments/Pasted image 20240102171320.png",
-    "Attachments/Pasted image 20240102171317.png",
-    "Cloud/AWS/Service/AWS OpenSearch",
-    "Framework/Django/Library/django-opensearch-dsl",
-    "Application/OpenSearch Dashboards",
-    "Database/OpenSearch"
+    "Attachments/Pasted image 20240111093051.png"
   ]
 }
