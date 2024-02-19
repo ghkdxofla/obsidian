@@ -5,13 +5,13 @@
       "id": "649d9fe2055002c5f64383c7",
       "name": "👋 웰컴",
       "sortOrder": -65536,
-      "closed": false,
+      "closed": true,
       "permission": "write",
       "kind": "TASK"
     },
     {
       "id": "3c2d4e84ab110cb394c55fcc",
-      "name": "😄개인 - 공부",
+      "name": "😄공부",
       "color": "#9742ea",
       "sortOrder": -532742144,
       "groupId": "7ed547a78f17cff1df5afdf4",
@@ -19,7 +19,7 @@
     },
     {
       "id": "26cc4c028a093cccd8d409c2",
-      "name": "😄개인 - 외주",
+      "name": "😄외주",
       "color": "#e03e39",
       "sortOrder": -533790720,
       "groupId": "7ed547a78f17cff1df5afdf4",
@@ -27,7 +27,7 @@
     },
     {
       "id": "61954155b6678ddf2610c61d",
-      "name": "💯업무 - 일반",
+      "name": "💯일반",
       "color": "transparent",
       "sortOrder": -1342242816,
       "groupId": "0f1c4c9c943d450d053af61b",
@@ -35,7 +35,7 @@
     },
     {
       "id": "baa44e7aa79bda32e7451876",
-      "name": "💯업무 - Target",
+      "name": "💯Target",
       "color": "transparent",
       "sortOrder": -1476460544,
       "groupId": "0f1c4c9c943d450d053af61b",
@@ -45,14 +45,14 @@
       "id": "7eb14f1eb22c2cb36a4a4fde",
       "name": "💯업무 - 성능 모니터링 TF",
       "color": "transparent",
-      "sortOrder": -1275133952,
+      "sortOrder": 4611686018426831000,
       "closed": true,
       "groupId": "0f1c4c9c943d450d053af61b",
       "kind": "TASK"
     },
     {
       "id": "ff3947d2801b3afc587bd1a8",
-      "name": "💯업무 - OpenAPI TF",
+      "name": "💯OpenAPI TF",
       "color": "transparent",
       "sortOrder": -1073807360,
       "groupId": "0f1c4c9c943d450d053af61b",
@@ -60,15 +60,16 @@
     },
     {
       "id": "3bd048909b5eee6bab34b169",
-      "name": "😄개인 - 알아둘 것",
+      "name": "🙏알아둘 것",
       "color": "transparent",
       "sortOrder": -535887872,
       "groupId": "7ed547a78f17cff1df5afdf4",
+      "viewMode": "list",
       "kind": "TASK"
     },
     {
       "id": "46024f7283da699e1c170d92",
-      "name": "😄개인 - 사이드",
+      "name": "😄사이드",
       "color": "transparent",
       "sortOrder": -266403840,
       "groupId": "7ed547a78f17cff1df5afdf4",
@@ -76,7 +77,7 @@
     },
     {
       "id": "d698489d919ff15b08c79d68",
-      "name": "💯업무 - Scrum TF",
+      "name": "💯Scrum TF",
       "color": "transparent",
       "sortOrder": -1006698496,
       "groupId": "0f1c4c9c943d450d053af61b",
@@ -92,7 +93,7 @@
     },
     {
       "id": "cc084761b722bb67d0a61a72",
-      "name": "🍀개인 - 1.33x 앱 만들기",
+      "name": "🍀1.33x 앱 만들기",
       "color": "transparent",
       "sortOrder": -534839296,
       "groupId": "7ed547a78f17cff1df5afdf4",
@@ -100,7 +101,7 @@
     },
     {
       "id": "65a4889c6fae5113f87d2528",
-      "name": "📶업무 - LLM TF",
+      "name": "📶LLM TF",
       "sortOrder": -1040252928,
       "groupId": "0f1c4c9c943d450d053af61b",
       "kind": "TASK"
@@ -111,6 +112,15 @@
       "color": "transparent",
       "sortOrder": -2305843010186821600,
       "groupId": "0f1c4c9c943d450d053af61b",
+      "kind": "TASK"
+    },
+    {
+      "id": "1e764b68a8691743500f74e9",
+      "name": "🤑자산관리 & 투자",
+      "color": "#6E75F4",
+      "sortOrder": -536412160,
+      "groupId": "7ed547a78f17cff1df5afdf4",
+      "viewMode": "list",
       "kind": "TASK"
     }
   ],

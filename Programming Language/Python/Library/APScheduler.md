@@ -1,5 +1,5 @@
 # Abstract
-- [[Python]]에서 사용하는 Scheduling Library
+- [[Python]]에서 사용하는 Scheduling [[Library/Library|Library]]
 # Content
 ## 실행 Worker의 수 설정
 - [문서](https://apscheduler.readthedocs.io/en/3.x/modules/executors/pool.html) 참고

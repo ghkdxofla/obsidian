@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/GCP/GCP.md",
+                "file": "Page/The Missing Semester of Your CS Education.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816034061318218a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Language/Python/Library/Asyncio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/GCP/GCP.md",
+                "file": "Programming Language/Python/Library/Asyncio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/GCP/GCP.md",
+                "file": "Programming Language/Python/Library/Asyncio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/GCP/GCP.md"
+                "file": "Programming Language/Python/Library/Asyncio.md"
               }
             }
           },
@@ -190,53 +204,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a89e596639a0811c",
+  "active": "816034061318218a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240219144118.png",
+    "Attachments/Pasted image 20240219144102.png",
+    "Attachments/Pasted image 20240219143900.png",
+    "Programming Language/Python/Library/APScheduler.md",
+    "Programming Language/Python/Library/Asyncio.md",
+    "Library/Library.md",
+    "Programming Language/Python/Library/Library.md",
+    "Programming Language/Python/CPython.md",
+    "Programming/Programming.md",
+    "Programming Language/Programming Language.md",
+    "Agile/The Scrum Master/Why Do We Need a Scrum Team.md",
+    "Agile/The Scrum Master/Scrum Team.md",
+    "Agile/The Scrum Master/Complexity & Empiricism.md",
+    "Agile/The Scrum Master/What You Need To Know About Scrum.md",
+    "Agile/The Scrum Master/What is Agile.md",
+    "Agile/The Scrum Master/History Of Scrum.md",
+    "Agile/The Scrum Master/Scrum in 3 Minutes.md",
+    "Agile/The Scrum Master/The Benefits of Scrum & Agile.md",
+    "Agile/The Scrum Master/What is Scrum.md",
+    "Attachments/Pasted image 20240219094053.png",
+    "Attachments/Pasted image 20240219093846.png",
+    "Agile/The Scrum Master/The Scrum Master.md",
+    "Agile/Agile.md",
+    "Agile/The Scrum Master",
+    "무제 파일.md",
+    "Agile",
+    "Page/The Missing Semester of Your CS Education.md",
+    "Computer Science/Data Structure/Stack.md",
+    "Attachments/Pasted image 20240207105205.png",
+    "Computer Science/Data Structure/Data Structure.md",
     "Cloud/GCP/Google App Engine.md",
-    "Framework/Strapi/Usage/Integration.md",
-    "Framework/Strapi/Usage/무제 파일.md",
-    "Cloud/GCP/Google Cloud Storage Bucket.md",
-    "Cloud/무제 폴더/무제 폴더.md",
+    "Computer Science/Data Structure",
     "Cloud/GCP/GCP.md",
+    "Framework/Strapi/Usage/Integration.md",
     "Cloud/GCP",
-    "Database/Elasticsearch/Index Settings & Mappings/Settings.md",
     "Cloud/무제 폴더",
     "Attachments/Pasted image 20240129102956.png",
     "Attachments/Pasted image 20240129102543.png",
     "Attachments/Pasted image 20240129101825.png",
     "Attachments/Pasted image 20240129101725.png",
-    "Computer Science/Coroutine.md",
-    "Framework/Django/Async/Async.md",
     "Framework/Django/Async",
     "Framework/Django/무제 폴더",
-    "Framework/LangChain/LangChain.md",
     "Framework/LangChain",
-    "Cloud/AWS/무제 폴더/무제 폴더.md",
     "Cloud/AWS/무제 폴더",
-    "무제 폴더/무제 폴더.md",
-    "무제 폴더",
     "Framework/무제 폴더",
-    "Programming Language/Python/Library/APScheduler.md",
-    "Framework/Django/Library/django-elasticsearch-dsl/django-elasticsearch-dsl.md",
-    "Framework/Django/Django.md",
-    "Framework/Framework.md",
-    "Database/Elasticsearch/Tokenizer & Analyzer/Tokenizer & Analyzer.md",
-    "Database/Elasticsearch/Search.md",
-    "Database/Elasticsearch/Tokenizer & Analyzer/Nori.md",
-    "Database/Elasticsearch/Tokenizer & Analyzer/Ngram.md",
-    "Database/Elasticsearch/Tokenizer & Analyzer",
-    "Cloud/AWS/Service/AWS EC2/AWS EC2.md",
-    "Attachments/Pasted image 20240124162158.png",
-    "Programming Language/Python/Library/Library.md",
-    "Database/OpenSearch/OpenSearch.md",
-    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Object & Nested.md",
-    "Database/Elasticsearch/Index Settings & Mappings/Mappings/Mappings.md",
-    "Database/Elasticsearch/Index Settings & Mappings/Index Settings & Mappings.md",
-    "Framework/Django/Migration",
-    "Attachments/Pasted image 20240111155602.png",
-    "Attachments/Pasted image 20240111155334.png",
-    "Attachments/Pasted image 20240111093746.png",
-    "Attachments/Pasted image 20240111093101.png",
-    "Attachments/Pasted image 20240111093051.png"
+    "Attachments/Pasted image 20240124162158.png"
   ]
 }
